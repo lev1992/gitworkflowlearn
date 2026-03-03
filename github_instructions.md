@@ -21,3 +21,6 @@ git fetch --prune
 
 ## delete branch locally 
 git branch -d 'branch/login'
+
+## Do not save changes
+git restore index.md
